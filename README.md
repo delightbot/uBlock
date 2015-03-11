@@ -8,39 +8,40 @@ uBlock
 </h1>
 <p align="center">
 <sup> <!-- Pronounciation -->
-      pronounced <i>you-block</i> (<code>/ˈjuːˌblɒk/</code>) — <i>you</i> decide what enters your browser.
+      발음하면 <i>you-block</i> 입니다. (<code>/ˈjuːˌblɒk/</code>) — <i>당신</i>이 원하는대로 불러주세요.
 </sup>
 <br>
 <sup> <!-- Languages -->
       <img src="https://raw.githubusercontent.com/gorhill/uBlock/master/doc/img/languageicon-36.png" width="18" height="18">
       <sup>
             English,          <a href="https://github.com/fang5566/uBlock#-%C2%B5block">
-            Chinese (中文)    </a>
+            Chinese (中文),    </a> <a href="https://github.com/delightbot/uBlock-ko">
+            Korean (한국어)   </a>
       </sup>
 </sup>
 </p>
 
 
-**An efficient blocker add-on for various browsers. Fast, potent, and lean.**&nbsp;&nbsp;[<img src="https://travis-ci.org/gorhill/uBlock.svg?branch=master" height="12">](https://travis-ci.org/gorhill/uBlock)
+**여러 브라우저를 위한 빠르고 강력하고 효율적인 차단기입니다.**&nbsp;&nbsp;[<img src="https://travis-ci.org/gorhill/uBlock.svg?branch=master" height="12">](https://travis-ci.org/gorhill/uBlock)
 
-* [Purpose & General Info](#philosophy)
-* [Performance and Efficiency](#performance)
-  * [Memory](#memory)
+* [용도 및 정보](#philosophy)
+* [성능 및 효율성](#performance)
+  * [메모리](#memory)
   * [CPU](#cpu)
-  * [Blocking](#blocking)
-  * [Quick tests](#quick-tests)
-* [Installation](#installation)
-  * [Chromium](#chromium)
-  * [Firefox](#firefox)
-  * [Safari](#safari)
-* [Release History](#release-history)
-* [Wiki](https://github.com/gorhill/uBlock/wiki)
+  * [차단](#blocking)
+  * [빠른 테스트](#quick-tests)
+* [설치](#installation)
+  * [크로미움](#chromium)
+  * [파이어폭스](#firefox)
+  * [사파리](#safari)
+* [릴리즈 내역](#release-history)
+* [위키](https://github.com/gorhill/uBlock/wiki)
 
-## Philosophy
+## 서문
 
-uBlock is not an *ad blocker*; it's a general-purpose blocker. uBlock blocks ads through its support of the [Adblock Plus filter syntax](https://adblockplus.org/en/filters). uBlock [extends](https://github.com/gorhill/uBlock/wiki/Filter-syntax-extensions) the syntax and is designed to work with custom rules and filters.
+uBlock은 *ad blocker*가 아닙니다; 범용 차단기입니다. uBlock은 [Adblock Plus filter syntax](https://adblockplus.org/en/filters)를 통해 광고를 차단합니다. uBlock은 구문을 [확장](https://github.com/gorhill/uBlock/wiki/Filter-syntax-extensions)하고 사용자 정의 규칙 및 필터 사용이 가능하도록 설계되었습니다.
 
-That said, it's important to note that using a blocker is **NOT** [theft](https://twitter.com/LeaVerou/status/518154828166725632). Don't fall for this creepy idea. The _ultimate_ logical consequence of `blocking = theft` is the criminalisation of the inalienable right to privacy.
+상기해두세요, 이 차단기는 **절대** [도용](https://twitter.com/LeaVerou/status/518154828166725632)에 사용되지 않습니다. Don't fall for this creepy idea. The _ultimate_ logical consequence of `blocking = theft` is the criminalisation of the inalienable right to privacy.
 
 Ads, "unintrusive" or not, are just the visible portions of privacy-invading apparatus entering your browser when you visit most sites nowadays. **uBlock's main goal is to help users neutralize such privacy-invading apparatus** — in a way that welcomes those users who don't wish to use more technical, involved means (such as [µMatrix](https://github.com/gorhill/uMatrix)).
 
