@@ -8,7 +8,7 @@ uBlock
 </h1>
 <p align="center">
 <sup> <!-- Pronounciation -->
-      발음하면 <i>you-block</i> 입니다. (<code>/ˈjuːˌblɒk/</code>) — <i>당신</i>이 원하는대로 불러주세요.
+      발음하면 <i>유-블록</i> 입니다. (<code>/ˈjuːˌblɒk/</code>) — <i>당신</i>이 원하는대로 불러주세요.
 </sup>
 <br>
 <sup> <!-- Languages -->
