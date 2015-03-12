@@ -69,17 +69,17 @@ uBlock을 설치하고, 당신이 생각하기에 uBlock의 차단목록이 너�
 
 <sup>[1] 자세한 메모리 사용량에 대한 벤치마크를 <a href="https://github.com/gorhill/uBlock/wiki/Firefox-version:-benchmarking-memory-footprint">파이어폭스 버전: 메모리 사용량 벤치마크</a> 에서 확인이 가능합니다.</sup><br>
 
-<sup>[2] Important note: There is currently a [bug in Chromium 39+ which causes a new memory leak each time the popup UI of an extension is opened](https://code.google.com/p/chromium/issues/detail?id=441500). This affects <i>all</i> extensions. Keep this in mind when measuring Chromium's memory usage. In the benchmarks, I avoided opening the popups completely.</sup><br>
+<sup>[2] 중요한 사항: 현재 여기에는 [크로미움 39+ 기반에서 확장기능이 열려 팝업 UI이 뜰 때마다 메모리 릭이 발생하는 버그](https://code.google.com/p/chromium/issues/detail?id=441500)가 존재합니다. 이것은 <i>모든</i> 확장기능에 영향을 줍니다. 크로미움 기반에서 메모리 사용량을 측정할 때 이 점을 유의해 주십시오. 벤치마크에서, 저는 완전하게 팝업을 여는 것을 피했습니다.</sup><br>
 
 #### CPU
 
 <p align="center">
-uBlock is also easy on the CPU<br>
+uBlock은 CPU에 부담이 적습니다.<br>
 <img src="https://raw.githubusercontent.com/gorhill/uBlock/master/doc/benchmarks/cpu-usage-overall-chart-20141226.png" /><br>
-<sup>Details of the benchmark available in <a href="https://github.com/gorhill/uBlock/blob/master/doc/benchmarks/cpu-usage-overall-20141226.ods">this LibreOffice spreadsheet</a>.</sup>
+<sup>자세한 벤치마크를 <a href="https://github.com/gorhill/uBlock/blob/master/doc/benchmarks/cpu-usage-overall-20141226.ods">이 리브레오피스 스프레드시트</a>에서 확인이 가능합니다./sup>
 </p>
 
-#### Blocking
+#### 블록
 
 <p align="center">
 Being lean and efficient doesn't mean blocking less<br>
