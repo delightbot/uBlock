@@ -102,23 +102,23 @@ uBlock은 CPU에 부담이 적습니다.<br>
 
 당신은 직접 [수동](https://github.com/gorhill/uBlock/tree/master/dist#install)으로 최신 버전을 설치하거나, [크롬 웹 스토어](https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)에서 설치하실 수 있습니다. 혹은 [오페라 스토어](https://addons.opera.com/en-gb/extensions/details/ublock/)에서도 가능합니다.
 
-#### Firefox
+#### 파이어폭스
 
-Install from [Firefox Add-ons homepage](https://addons.mozilla.org/en-US/firefox/addon/ublock/), or you can install by downloading the latest [uBlock.firefox.xpi](https://github.com/gorhill/uBlock/releases) file, and by dragging the downloaded `xpi` file to your add-on page.
+[파이어폭스 애드온 홈페이지](https://addons.mozilla.org/en-US/firefox/addon/ublock/)에서 설치하거나, [uBlock.firefox.xpi](https://github.com/gorhill/uBlock/releases) 파일을 다운로드 받아 최신 버전을 설치할 수 있습니다, 그리고 다운로드 받은 `xpi` 파일을 애드온 페이지페이지에 드래그 하시면 됩니다.
 
-#### Safari
+#### 사파리
 
-Install the latest uBlock for Safari [from its homepage](https://chrismatic.io/ublock/), or a potentially-outdated version from the [Safari Extension Gallery](https://extensions.apple.com/details/?id=net.gorhill.uBlock-96G4BAKDQ9).
+사파리를 위한 최신 버전의 uBlock을 [이 홈페이지](https://chrismatic.io/ublock/)에서 설치하거나, 잠재적으로 구버전일수 있는  [사파리 확장기능 갤러리](https://extensions.apple.com/details/?id=net.gorhill.uBlock-96G4BAKDQ9)에서 설치하실 수 있습니다.
 
-<sup>Safari 6.1 and later (developed on Safari 8/Yosemite; tested on 6.1/Mountain Lion and 7/Mavericks).</sup>
+<sup>사파리 6.1 버전 이상 (Safari 8/Yosemite 개발; 6.1/Mountain Lion 및 7/Mavericks 테스트).</sup>
 
-#### Note for all browsers
+#### 모든 브라우저에 대한 주의 사항
 
-To benefit from uBlock's higher efficiency, it's advised that you don't use other inefficient blockers at the same time (such as AdBlock or Adblock Plus). uBlock will do [as well or better](#blocking) than most popular ad blockers.
+uBlock의 높은 차단효율을 위해서는 동시에 다른 비효율적인 차단제를 사용하지 않는 것이 좋습니다. (예: AdBlock 이나 AdBlock Plus) uBlock은 다른 인기있는 광고 차단기보다 [훨씬 더 좋습니다](#blocking).
 
-## Release History
+## 릴리즈 내역
 
-See the [releases pages](https://github.com/gorhill/uBlock/releases) for a history of releases and highlights for each release.
+[릴리즈 페이지](https://github.com/gorhill/uBlock/releases)에서 릴리즈 내역과 릴리즈에 대한 하이라이트 부분을 알 수 있습니다.
 
 ## Documentation
 
