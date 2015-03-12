@@ -15,7 +15,7 @@ uBlock
       <img src="https://raw.githubusercontent.com/gorhill/uBlock/master/doc/img/languageicon-36.png" width="18" height="18">
       <sup>
             English,          <a href="https://github.com/fang5566/uBlock#-%C2%B5block">
-            Chinese (中文),    </a> <a href="https://github.com/delightbot/uBlock-ko">
+            Chinese (中文),    </a> <a href="https://github.com/delightbot/uBlock">
             Korean (한국어)   </a>
       </sup>
 </sup>
@@ -37,7 +37,7 @@ uBlock
 * [릴리즈 내역](#release-history)
 * [위키](https://github.com/gorhill/uBlock/wiki)
 
-## 서문
+## 용도 및 정보
 
 uBlock은 *ad blocker*가 아닙니다; 범용 차단기입니다. uBlock은 [Adblock Plus filter syntax](https://adblockplus.org/en/filters)를 통해 광고를 차단합니다. uBlock은 구문을 [확장](https://github.com/gorhill/uBlock/wiki/Filter-syntax-extensions)하고 사용자 정의 규칙 및 필터 사용이 가능하도록 설계되었습니다.
 
@@ -56,18 +56,18 @@ uBlock을 설치하고, 당신이 생각하기에 uBlock의 차단목록이 너�
 <div align="center">
 평균적으로 볼 때, uBlock은 당신의 브라우저를 훨씬 더 가볍게 만듭니다. <sup>[1]</sup><br><br>
 
-Chromium <sup>[2]</sup><br>
+크로미움 <sup>[2]</sup><br>
 <img src="https://raw.githubusercontent.com/gorhill/uBlock/master/doc/benchmarks/mem-usage-overall-chart-20141224.png" /><br><br>
 
-Firefox<br>
+파이어폭스<br>
 <img src="https://raw.githubusercontent.com/gorhill/uBlock/master/doc/benchmarks/mem-usage-overall-chart-20150205.png" /><br><br>
 
-Safari<br>
+사파리<br>
 <img src="https://raw.githubusercontent.com/gorhill/uBlock/master/doc/benchmarks/mem-usage-overall-chart-safari-20150205.png" /><br><br>
 
 </div>
 
-<sup>[1] Details of the benchmark available at <a href="https://github.com/gorhill/uBlock/wiki/Firefox-version:-benchmarking-memory-footprint">Firefox version: benchmarking memory footprint</a>.</sup><br>
+<sup>[1] 자세한 메모리 사용량에 대한 벤치마크를 <a href="https://github.com/gorhill/uBlock/wiki/Firefox-version:-benchmarking-memory-footprint">파이어폭스 버전: 메모리 사용량 벤치마크</a> 에서 확인이 가능합니다.</sup><br>
 
 <sup>[2] Important note: There is currently a [bug in Chromium 39+ which causes a new memory leak each time the popup UI of an extension is opened](https://code.google.com/p/chromium/issues/detail?id=441500). This affects <i>all</i> extensions. Keep this in mind when measuring Chromium's memory usage. In the benchmarks, I avoided opening the popups completely.</sup><br>
 
