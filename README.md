@@ -80,7 +80,7 @@ uBlock은 CPU에 부담이 적습니다.<br>
 <sup>자세한 벤치마크를 <a href="https://github.com/gorhill/uBlock/blob/master/doc/benchmarks/cpu-usage-overall-20141226.ods">이 리브레오피스 스프레드시트</a>에서 확인이 가능합니다.</sup>
 </p>
 
-#### 블록
+#### 차단
 
 <p align="center">
 매우 효율적이기 때문에 덜 차단하는 것을 의미하는 것은 아닙니다.<br>
