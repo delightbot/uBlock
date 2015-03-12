@@ -76,31 +76,31 @@ uBlock을 설치하고, 당신이 생각하기에 uBlock의 차단목록이 너�
 <p align="center">
 uBlock은 CPU에 부담이 적습니다.<br>
 <img src="https://raw.githubusercontent.com/gorhill/uBlock/master/doc/benchmarks/cpu-usage-overall-chart-20141226.png" /><br>
-<sup>자세한 벤치마크를 <a href="https://github.com/gorhill/uBlock/blob/master/doc/benchmarks/cpu-usage-overall-20141226.ods">이 리브레오피스 스프레드시트</a>에서 확인이 가능합니다./sup>
+<sup>자세한 벤치마크를 <a href="https://github.com/gorhill/uBlock/blob/master/doc/benchmarks/cpu-usage-overall-20141226.ods">이 리브레오피스 스프레드시트</a>에서 확인이 가능합니다.</sup>
 </p>
 
 #### 블록
 
 <p align="center">
-Being lean and efficient doesn't mean blocking less<br>
+매우 효율적이기 때문에 덜 차단하는 것을 의미하는 것은 아닙니다.<br>
 <img src="https://raw.githubusercontent.com/gorhill/uBlock/master/doc/benchmarks/privex-201502-16.png" /><br>
-<sup>For details of benchmark, see 
-<a href="https://github.com/gorhill/uBlock/wiki/%C2%B5Block-and-others:-Blocking-ads,-trackers,-malwares">uBlock and others: Blocking ads, trackers, malwares</a>.
+<sup>자세한 벤치마크는  
+<a href="https://github.com/gorhill/uBlock/wiki/%C2%B5Block-and-others:-Blocking-ads,-trackers,-malwares">uBlock 그리고 다른 프로그램: 광고 차단, 트래커, 멀웨어</a> 에서 확인이 가능합니다.
 </p>
 
-#### Quick tests
+#### 빠른 테스트
 
-- [Index](http://raymondhill.net/ublock/tests.html)
-- [Web page components](http://raymondhill.net/ublock/tiles1.html)
-- [Popups](http://raymondhill.net/ublock/popup.html)
+- [인덱스](http://raymondhill.net/ublock/tests.html)
+- [웹 페이지의 구성 요소](http://raymondhill.net/ublock/tiles1.html)
+- [팝업](http://raymondhill.net/ublock/popup.html)
 
-## Installation
+## 설치
 
-Feel free to read [about the extension's required permissions](https://github.com/gorhill/uBlock/wiki/About-the-required-permissions).
+확장기능의 [필요한 권한](https://github.com/gorhill/uBlock/wiki/About-the-required-permissions)에 대해 읽어 주시기 바랍니다. 
 
-#### Chromium
+#### 크로미움
 
-You can install the latest version [manually](https://github.com/gorhill/uBlock/tree/master/dist#install), from the [Chrome Web Store](https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm), or from the [Opera store](https://addons.opera.com/en-gb/extensions/details/ublock/).
+당신은 직접 [수동](https://github.com/gorhill/uBlock/tree/master/dist#install)으로 최신 버전을 설치하거나, [크롬 웹 스토어](https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)에서 설치하실 수 있습니다. 혹은 [오페라 스토어](https://addons.opera.com/en-gb/extensions/details/ublock/)에서도 가능합니다.
 
 #### Firefox
 
