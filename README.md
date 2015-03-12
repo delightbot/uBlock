@@ -105,7 +105,7 @@ uBlock은 CPU에 부담이 적습니다.<br>
 
 #### 파이어폭스
 
-[파이어폭스 애드온 홈페이지](https://addons.mozilla.org/en-US/firefox/addon/ublock/)에서 설치하거나, [uBlock.firefox.xpi](https://github.com/gorhill/uBlock/releases) 파일을 다운로드 받아 최신 버전을 설치할 수 있습니다, 그리고 다운로드 받은 `xpi` 파일을 애드온 페이지페이지에 드래그 하시면 됩니다.
+[파이어폭스 애드온 홈페이지](https://addons.mozilla.org/ko/firefox/addon/ublock/)에서 설치하거나, [uBlock.firefox.xpi](https://github.com/gorhill/uBlock/releases) 파일을 다운로드 받아 최신 버전을 설치할 수 있습니다, 그리고 다운로드 받은 `xpi` 파일을 애드온 페이지페이지에 드래그 하시면 됩니다.
 
 #### 사파리
 
