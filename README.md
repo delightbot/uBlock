@@ -41,9 +41,9 @@ uBlock
 
 uBlock은 *ad blocker*가 아닙니다; 범용 차단기입니다. uBlock은 [Adblock Plus filter syntax](https://adblockplus.org/en/filters)를 통해 광고를 차단합니다. uBlock은 구문을 [확장](https://github.com/gorhill/uBlock/wiki/Filter-syntax-extensions)하고 사용자 정의 규칙 및 필터 사용이 가능하도록 설계되었습니다.
 
-상기해두세요, 이 차단기를 사용하는 것은 **절대** [도둑질](https://twitter.com/LeaVerou/status/518154828166725632)이 아닙니다. 이런 오싹한 상상에 빠지지 마세요. _궁극적인_ 논리의 결과가 `차단 = 도둑질` 이라면 이는 불가침적인 개인정보 권리에 대한 범죄입니다.
+상기해두세요, 이 차단기를 사용하는 것은 **절대** [도둑질](https://twitter.com/LeaVerou/status/518154828166725632)이 아닙니다. 이런 오싹한 상상에 빠지지 마세요. _궁극적_인 논리의 결과가 `차단 = 도둑질` 이라면 이는 불가침적인 개인정보 권리에 대한 범죄입니다.
 
-광고들, "거슬리지 않거나" 혹은 아닐뿐이지만, 요즘 당신이 방문하는 사이트에서 광고가 보이는 부분은 그저 개인정보를 알아내려는 장치의 눈에 보이는 부분일 뿐입니다. **uBlock's main goal is to help users neutralize such privacy-invading apparatus** — in a way that welcomes those users who don't wish to use more technical, involved means (such as [µMatrix](https://github.com/gorhill/uMatrix)).
+광고들, "거슬리지 않거나" 혹은 아닐뿐이지만, 요즘 당신이 방문하는 사이트에서 광고가 보이는 부분은 그저 개인정보를 알아내려는 장치의 눈에 보이는 부분일 뿐입니다. **uBlock의 주 목표는 사용자가 개인정보 침해 장치를 무력화시키는 것을 돕는 것입니다.** — in a way that welcomes those users who don't wish to use more technical, involved means (such as [µMatrix](https://github.com/gorhill/uMatrix)).
 
 _EasyList_, _Peter Lowe's Adservers_, _EasyPrivacy_ and _Malware domains_ are enabled by default when you install uBlock. Many more lists are readily available to block trackers, analytics, and more. Hosts files are also supported.
 
