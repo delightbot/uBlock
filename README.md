@@ -25,17 +25,17 @@ uBlock
 
 **여러 브라우저를 위한 빠르고 강력하고 효율적인 차단기입니다.**&nbsp;&nbsp;[<img src="https://travis-ci.org/gorhill/uBlock.svg?branch=master" height="12">](https://travis-ci.org/gorhill/uBlock)
 
-* [용도 및 정보](#philosophy)
-* [성능 및 효율성](#performance)
-  * [메모리](#memory)
+* [용도 및 정보](#용도 및 정보)
+* [성능 및 효율성](#성능 및 효율성)
+  * [메모리](#메모리)
   * [CPU](#cpu)
-  * [차단](#blocking)
-  * [빠른 테스트](#quick-tests)
-* [설치](#installation)
-  * [크로미움](#chromium)
-  * [파이어폭스](#firefox)
-  * [사파리](#safari)
-* [릴리즈 내역](#release-history)
+  * [차단](#차단)
+  * [빠른 테스트](#빠른 테스트)
+* [설치](#설치)
+  * [크로미움](#크로미움)
+  * [파이어폭스](#파이어폭스)
+  * [사파리](#사파리)
+* [릴리즈 내역](#릴리즈 내역)
 * [위키](https://github.com/gorhill/uBlock/wiki)
 
 ## 용도 및 정보
