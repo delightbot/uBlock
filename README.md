@@ -43,18 +43,18 @@ uBlock은 *ad blocker*가 아닙니다; 범용 차단기입니다. uBlock은 [Ad
 
 상기해두세요, 이 차단기를 사용하는 것은 **절대** [도둑질](https://twitter.com/LeaVerou/status/518154828166725632)이 아닙니다. 이런 오싹한 상상에 빠지지 마세요. _궁극적_인 논리의 결과가 `차단 = 도둑질` 이라면 이는 불가침적인 개인정보 권리에 대한 범죄입니다.
 
-광고들, "거슬리지 않거나" 혹은 아닐뿐이지만, 요즘 당신이 방문하는 사이트에서 광고가 보이는 부분은 그저 개인정보를 알아내려는 장치의 눈에 보이는 부분일 뿐입니다. **uBlock의 주 목표는 사용자가 개인정보 침해 장치를 무력화시키는 것을 돕는 것입니다.** — 이러한 사용자들을 환영하는 방식으로 더 많은 기술을 원하지 않는 사용자들을 위해, 참여 방법을 마련했습니다. ([µMatrix](https://github.com/gorhill/uMatrix) 같은 것들).
+광고들, "거슬리지 않거나" 혹은 아닐뿐이지만, 요즘 당신이 방문하는 사이트에서 광고가 보이는 부분은 그저 개인정보를 알아내려는 장치의 눈에 보이는 부분일 뿐입니다. **uBlock의 주 목표는 사용자가 개인정보 침해 장치를 무력화시키는 것을 돕는 것입니다.** — 이러한 사용자들을 환영하는 방식으로 더 많은 기술을 원하지 않는 사용자들을 위해, 참여 방법을 마련했습니다. (예를 들어, [µMatrix](https://github.com/gorhill/uMatrix) 같은 것들).
 
-_EasyList_, _Peter Lowe's Adservers_, _EasyPrivacy_ and _Malware domains_ are enabled by default when you install uBlock. Many more lists are readily available to block trackers, analytics, and more. Hosts files are also supported.
+_EasyList_, _Peter Lowe's Adservers_, _EasyPrivacy_ 와 _Malware domains_ 는 uBlock을 설치할 때 기본적으로 활성화 되어 있습니다. 다른 많은 블록 트래커, 분석 등을 쉽게 사용할 수 있습니다. 호스트 파일도 지원됩니다.
 
-Once you install uBlock, you may easily un-select any of the pre-selected filter lists if you think uBlock blocks too much. For reference, Adblock Plus installs with only _EasyList_ enabled by default.
+uBlock을 설치하고, 당신이 생각하기에 uBlock의 차단목록이 너무 많다고 생각되면 쉽게 필터 리스트에서 선택 해제가 가능합니다. 참고로, 애드블록 플러스는 설치시 _EasyList_ 만 기본적으로 활성화되어 있습니다.
 
-## Performance
+## 성능
 
-#### Memory
+#### 메모리
 
 <div align="center">
-On average, uBlock <b>really</b> does make your browser run leaner. <sup>[1]</sup><br><br>
+평균적으로 볼 때, uBlock은 당신의 브라우저를 훨씬 더 가볍게 만듭니다. <sup>[1]</sup><br><br>
 
 Chromium <sup>[2]</sup><br>
 <img src="https://raw.githubusercontent.com/gorhill/uBlock/master/doc/benchmarks/mem-usage-overall-chart-20141224.png" /><br><br>
