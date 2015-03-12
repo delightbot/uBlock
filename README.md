@@ -126,7 +126,7 @@ uBlock의 높은 차단효율을 위해서는 동시에 다른 비효율적인 �
 
 ![팝업](https://raw.githubusercontent.com/gorhill/uBlock/master/doc/img/popup-1.png)
 
-For advanced usage, read about [유동 필터링](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-quick-guide) and more on [uBlock 위키](https://github.com/gorhill/uBlock/wiki).
+좀 더 고급 기능 사용을 원하신다면, [유동 필터링](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-quick-guide)과 [uBlock 위키](https://github.com/gorhill/uBlock/wiki)를 참조하세요.
 
 ## 정보
 
