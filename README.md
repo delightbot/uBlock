@@ -118,29 +118,26 @@ uBlock의 높은 차단효율을 위해서는 동시에 다른 비효율적인 �
 
 ## 릴리즈 내역
 
-[릴리즈 페이지](https://github.com/gorhill/uBlock/releases)에서 릴리즈 내역과 릴리즈에 대한 하이라이트 부분을 알 수 있습니다.
+[릴리즈 페이지](https://github.com/gorhill/uBlock/releases)에서 릴리즈 내역과 릴리즈에 대한 하이라이트 부분을 볼 수 있습니다.
 
-## Documentation
+## 설명서
 
-[Quick guide: popup user interface](https://github.com/gorhill/uBlock/wiki/Quick-guide:-popup-user-interface)
+[빠른 가이드: 팝업 유저 인터페이스](https://github.com/gorhill/uBlock/wiki/Quick-guide:-popup-user-interface)
 
-![Popup](https://raw.githubusercontent.com/gorhill/uBlock/master/doc/img/popup-1.png)
+![팝업](https://raw.githubusercontent.com/gorhill/uBlock/master/doc/img/popup-1.png)
 
-For advanced usage, read about [dynamic filtering](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-quick-guide) and more on [uBlock's wiki](https://github.com/gorhill/uBlock/wiki).
+For advanced usage, read about [유동 필터링](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-quick-guide) and more on [uBlock 위키](https://github.com/gorhill/uBlock/wiki).
 
-## About
+## 정보
 
-[uBlock's manifesto](MANIFESTO.md).
+[uBlock 선언서](MANIFESTO.md).
 
-Free. Open source. For users by users. No donations sought.
+무료이며, 개방되어 있으며(오픈소스), 사용자를 위해 사용자가 만들었습니다. 어떠한 기부도 바라지 않습니다.
 
-Without the preset lists of filters, this extension is nothing. So if ever you
-really do want to contribute something, think about the people working hard
-to maintain the filter lists you are using, which were made available to use by
-all for free.
+설정되어 있는 필터를 제외하면, 이 확장기능은 의미가 없어집니다. 그러니 정말 어떤것이라도 기부하고 싶은 마음이 든다면, 당신이 사용중인 모두를 위해 무료로 쓸 수 있게 만들어진 필터 리스트를 위해 일하는 사람들을 생각해주세요.
 
-You can contribute by helping translate uBlock [on Crowdin](https://crowdin.net/project/ublock).
+[Crowdin](https://crowdin.net/project/ublock)에서 uBlock의 번역 작업을 도와줄 수 있습니다.
 
-## License
+## 라이센스
 
 [GPLv3](https://github.com/gorhill/uBlock/blob/master/LICENSE.txt).
