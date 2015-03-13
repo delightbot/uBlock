@@ -40,7 +40,7 @@ uBlock
 
 ## 용도 및 정보
 
-uBlock은 *ad blocker*가 아닙니다; 범용 차단기입니다. uBlock은 [Adblock Plus filter syntax](https://adblockplus.org/en/filters)를 통해 광고를 차단합니다. uBlock은 구문을 [확장](https://github.com/gorhill/uBlock/wiki/Filter-syntax-extensions)하고 사용자 정의 규칙 및 필터 사용이 가능하도록 설계되었습니다.
+uBlock은 *단순한 광고 차단기*가 아닙니다; 여러가지 부분에서 쓸 수 있는 차단기입니다. uBlock은 [Adblock Plus filter syntax](https://adblockplus.org/en/filters)를 통해 광고를 차단합니다. uBlock은 구문을 [확장](https://github.com/gorhill/uBlock/wiki/Filter-syntax-extensions)하고 사용자 정의 규칙 및 필터 사용이 가능하도록 설계되었습니다.
 
 상기해두세요, 이 차단기를 사용하는 것은 **절대** [도둑질](https://twitter.com/LeaVerou/status/518154828166725632)이 아닙니다. 이런 오싹한 상상에 빠지지 마세요. _궁극적_인 논리의 결과가 `차단 = 도둑질` 이라면 이는 불가침적인 개인정보 권리에 대한 범죄입니다.
 
@@ -77,7 +77,7 @@ uBlock을 설치하고, 당신이 생각하기에 uBlock의 차단목록이 너�
 <p align="center">
 uBlock은 CPU에 부담이 적습니다.<br>
 <img src="https://raw.githubusercontent.com/gorhill/uBlock/master/doc/benchmarks/cpu-usage-overall-chart-20141226.png" /><br>
-<sup>자세한 벤치마크를 <a href="https://github.com/gorhill/uBlock/blob/master/doc/benchmarks/cpu-usage-overall-20141226.ods">이 리브레오피스 스프레드시트</a>에서 확인이 가능합니다.</sup>
+<sup>자세한 벤치마크를 이 <a href="https://github.com/gorhill/uBlock/blob/master/doc/benchmarks/cpu-usage-overall-20141226.ods">리브레오피스 스프레드시트</a>에서 확인이 가능합니다.</sup>
 </p>
 
 #### 차단
@@ -101,7 +101,7 @@ uBlock은 CPU에 부담이 적습니다.<br>
 
 #### 크로미움
 
-당신은 직접 [수동](https://github.com/gorhill/uBlock/tree/master/dist#install)으로 최신 버전을 설치하거나, [크롬 웹 스토어](https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)에서 설치하실 수 있습니다. 혹은 [오페라 스토어](https://addons.opera.com/en-gb/extensions/details/ublock/)에서도 가능합니다.
+직접 [수동](https://github.com/gorhill/uBlock/tree/master/dist#install)으로 최신 버전을 설치하거나, [크롬 웹 스토어](https://chrome.google.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)에서 설치하실 수 있습니다. 오페라 브라우저를 사용하신다면, [오페라 스토어](https://addons.opera.com/en-gb/extensions/details/ublock/)에서 설치가  가능합니다.
 
 #### 파이어폭스
 
