@@ -107,6 +107,8 @@ uBlock은 CPU에 부담이 적습니다.<br>
 
 [파이어폭스 애드온 홈페이지](https://addons.mozilla.org/ko/firefox/addon/ublock/)에서 설치하거나, [uBlock.firefox.xpi](https://github.com/gorhill/uBlock/releases) 파일을 다운로드 받아 최신 버전을 설치할 수 있습니다, 그리고 다운로드 받은 `xpi` 파일을 애드온 페이지페이지에 드래그 하시면 됩니다.
 
+<sup>**알림:** 새 버전을 _모질라 애드온_ (AMO)에 제출하면, 여러 사항을 검토하는데 대략 **몇 주** 가 소요됩니다. 새로운 버전을 제출하게 되면 검토 보류중이던 항목이 취소되고, 새 제출항목은 검토 순서의 마지막에 배치 될 수 있습니다. 그래서, AMO에 있는 버전은 최신버전보다 이전 버전이며, 이 버전은 개발자의 제어권한에서 제외됩니다.</sup>
+
 #### 사파리
 
 사파리를 위한 최신 버전의 uBlock을 [이 홈페이지](https://chrismatic.io/ublock/)에서 설치하거나, 잠재적으로 구버전일수 있는  [사파리 확장기능 갤러리](https://extensions.apple.com/details/?id=net.gorhill.uBlock-96G4BAKDQ9)에서 설치하실 수 있습니다.
