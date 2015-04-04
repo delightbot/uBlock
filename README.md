@@ -57,7 +57,7 @@ uBlock을 설치하고, 당신이 생각하기에 uBlock의 차단목록이 너�
 
 <a href="https://github.com/gorhill/uBlock/wiki/Quick-guide:-popup-user-interface"><img src="https://raw.githubusercontent.com/gorhill/uBlock/master/doc/img/popup-1.png" /></a>
 
-고급 사용자분들은, [유동 필터링](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-quick-guide)과 [uBlock 위키](https://github.com/gorhill/uBlock/wiki)를 읽어보세요.
+고급 사용자분들은, [유동 필터링](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-quick-guide)과 [uBlock 위키](https://github.com/gorhill/uBlock/wiki)를 참조하세요.
 
 ## 성능
 
@@ -131,14 +131,6 @@ uBlock의 높은 차단효율을 위해서는 동시에 다른 비효율적인 �
 ## 릴리즈 내역
 
 [릴리즈 페이지](https://github.com/gorhill/uBlock/releases)에서 릴리즈 내역과 릴리즈에 대한 하이라이트 부분을 볼 수 있습니다.
-
-## 설명서
-
-[빠른 가이드: 팝업 유저 인터페이스](https://github.com/gorhill/uBlock/wiki/Quick-guide:-popup-user-interface)
-
-![팝업](https://raw.githubusercontent.com/gorhill/uBlock/master/doc/img/popup-1.png)
-
-좀 더 고급 기능 사용을 원하신다면, [유동 필터링](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-quick-guide)과 [uBlock 위키](https://github.com/gorhill/uBlock/wiki)를 참조하세요.
 
 ## 정보
 
