@@ -26,6 +26,7 @@ uBlock
 **여러 브라우저를 위한 빠르고 강력하고 효율적인 차단기입니다.**&nbsp;&nbsp;[<img src="https://travis-ci.org/gorhill/uBlock.svg?branch=master" height="12">](https://travis-ci.org/gorhill/uBlock)
 
 * [용도 및 정보](#용도 및 정보)
+* [설명서](#설명서)
 * [성능 및 효율성](#성능 및 효율성)
   * [메모리](#메모리)
   * [CPU](#CPU)
@@ -49,6 +50,14 @@ uBlock은 *단순한 광고 차단기*가 아닙니다; 여러가지 부분에�
 _EasyList_, _Peter Lowe's Adservers_, _EasyPrivacy_ 와 _Malware domains_ 는 uBlock을 설치할 때 기본적으로 활성화 되어 있습니다. 다른 많은 블록 트래커, 분석 등을 쉽게 사용할 수 있습니다. 호스트 파일도 지원됩니다.
 
 uBlock을 설치하고, 당신이 생각하기에 uBlock의 차단목록이 너무 많다고 생각되면 쉽게 필터 리스트에서 선택 해제가 가능합니다. 참고로, 애드블록 플러스는 설치시 _EasyList_ 만 기본적으로 활성화되어 있습니다.
+
+## 설명서
+
+[빠른 가이드: 팝업 유저 인터페이스](https://github.com/gorhill/uBlock/wiki/Quick-guide:-popup-user-interface)
+
+<a href="https://github.com/gorhill/uBlock/wiki/Quick-guide:-popup-user-interface"><img src="https://raw.githubusercontent.com/gorhill/uBlock/master/doc/img/popup-1.png" /></a>
+
+고급 사용자분들은, [유동 필터링](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-quick-guide)과 [uBlock 위키](https://github.com/gorhill/uBlock/wiki)를 읽어보세요.
 
 ## 성능
 
