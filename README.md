@@ -18,29 +18,29 @@
 
 ## uBlock이란?
 
-uBlock is a general-purpose blocker — not an *ad blocker* specifically.
+uBlock 은 범용 차단기 애드온입니다.— 구체적으로 *ad blocker* 는 아닙니다.
 
-uBlock blocks ads through its support of the [Adblock Plus filter syntax](https://adblockplus.org/en/filters). uBlock [extends](https://github.com/chrisaljoudi/uBlock/wiki/Filter-syntax-extensions) the syntax and is designed to work with custom rules and filters.
+uBlock 은 [Adblock Plus filter syntax](https://adblockplus.org/en/filters)를 통해 광고를 차단합니다. uBlock은 구문을 [확장](https://github.com/chrisaljoudi/uBlock/wiki/Filter-syntax-extensions)하고 사용자 정의 규칙 및 필터 사용이 가능하도록 설계되었습니다.
 
-uBlock's main goal is to help users neutralize privacy-invading apparatus — ads being one example.
+uBlock의 주 목표는 사용자가 개인정보 침해 장치를 무력화시키는 것을 돕는 것입니다. — 광고도 그 예중 하나입니다.
 
-## Getting started
+## 시작하기
 
-[Quick guide for basic usage](https://github.com/chrisaljoudi/uBlock/wiki/Quick-guide:-popup-user-interface).
+[기본 사용법에 대한 빠른 가이드](https://github.com/chrisaljoudi/uBlock/wiki/Quick-guide:-popup-user-interface).
 
-#### Installation:
+#### 설치:
 
-* **Safari**: available to install [from the homepage](https://chrismatic.io/ublock/safari/), or from the [Safari Extension Gallery](https://extensions.apple.com/details/?id=net.chrisaljoudi.uBlock-96G4BAKDQ9).
+* **사파리**: [이 홈페이지](https://chrismatic.io/ublock/safari/)에서 다운로드 하거나, [사파리 확장기능 갤러리](https://extensions.apple.com/details/?id=net.chrisaljoudi.uBlock-96G4BAKDQ9)에서 다운로드 하실 수 있습니다.
 
-* **Chrome**: available on the [Chrome Web Store](https://chrome.google.com/webstore/detail/ublock/epcnnfbjfcgphgdmggkamkmgojdagdnn) or for [manual](https://github.com/chrisaljoudi/uBlock/tree/master/dist#install) installation.
+* **크롬**: [크롬 웹스토어](https://chrome.google.com/webstore/detail/ublock/epcnnfbjfcgphgdmggkamkmgojdagdnn)에서 다운로드 하거나, [직접 내려받는 형식](https://github.com/chrisaljoudi/uBlock/tree/master/dist#install)으로 다운로드 하실 수 있습니다.
 
-* **Opera**: available on the [Opera Store](https://addons.opera.com/en-gb/extensions/details/ublock/).
+* **오페라**: [오페라 스토어](https://addons.opera.com/en-gb/extensions/details/ublock/)에서 다운로드 하실 수 있습니다.
 
-* **Firefox**: available on the [Firefox Add-ons homepage](https://addons.mozilla.org/en-US/firefox/addon/ublock/), or for [manual](https://github.com/chrisaljoudi/uBlock/releases) installation.
+* **파이어폭스**: [파이어폭스 애드온 홈페이지](https://addons.mozilla.org/en-US/firefox/addon/ublock/)에서 다운로드 하거나, [직접 내려받는 형식](https://github.com/chrisaljoudi/uBlock/releases)으로 다운로드 하실 수 있습니다.
 
- * Due to Mozilla's review process, the version of uBlock available from the Add-ons homepage is currently often outdated. This isn't in our control.
+ * 모질라의 검토과정으로 인하여 파이어폭스 애드온 홈페이지의 uBlock이 자주 구형 버전이 될 수 있습니다. 이것은 개발자의 제어권한에서 제외됩니다.
 
-## Performance
+## 성능
 
 #### Memory
 
