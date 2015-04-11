@@ -1,7 +1,6 @@
 <a href = "https://chrismatic.io/ublock/">
-<img  src="https://raw.githubusercontent.com/chrisaljoudi/uBlock/master/doc/img/icon64@2x.png"
-      height="64"
-      width="64">
+<img  src="https://raw.githubusercontent.com/chrisaljoudi/uBlock/master/doc/img/gh-header.png"
+      height="64">
 </a>
 
 [**uBlock**](https://chrismatic.io/ublock/): 여러 브라우저를 위한 차단기 확장기능입니다. 빠르고, 강력하며, 가볍습니다.
@@ -45,20 +44,21 @@ uBlock의 주 목표는 사용자가 개인정보 침해 장치를 무력화시�
 #### Memory
 
 <div align="center">
-On average, uBlock <b>really</b> does make your browser run leaner. <sup>[1]</sup><br><br>
+평균치로 볼 때, uBlock은 <b>확실히</b> 당신의 브라우저를 가볍게 만들어줍니다.
+<sup>[1]</sup><br><br>
 
-Chromium <sup>[2]</sup><br>
+크로미움 <sup>[2]</sup><br>
 <img src="https://raw.githubusercontent.com/chrisaljoudi/uBlock/master/doc/benchmarks/mem-usage-overall-chart-20141224.png" /><br><br>
 
-Firefox<br>
+파이어폭스<br>
 <img src="https://raw.githubusercontent.com/chrisaljoudi/uBlock/master/doc/benchmarks/mem-usage-overall-chart-20150205.png" /><br><br>
 
-Safari<br>
+사파리<br>
 <img src="https://raw.githubusercontent.com/chrisaljoudi/uBlock/master/doc/benchmarks/mem-usage-overall-chart-safari-20150205.png" /><br><br>
 
 </div>
 
-<sup>[1] Details of the benchmark available at <a href="https://github.com/chrisaljoudi/uBlock/wiki/Firefox-version:-benchmarking-memory-footprint">Firefox version: benchmarking memory footprint</a>.</sup><br>
+<sup>[1] 자세한 벤치마크 정보는 <a href="https://github.com/chrisaljoudi/uBlock/wiki/Firefox-version:-benchmarking-memory-footprint">파이어폭스 버전: 메모리 사용량 벤치마크</a> 에서 확인하실 수 있습니다.</sup><br>
 
 <sup>[2] Important note: There is currently a [bug in Chromium 39+ which causes a new memory leak each time the popup UI of an extension is opened](https://code.google.com/p/chromium/issues/detail?id=441500). This affects <i>all</i> extensions. Keep this in mind when measuring Chromium's memory usage. In the benchmarks, I avoided opening the popups completely.</sup><br>
 
