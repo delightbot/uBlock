@@ -11,7 +11,7 @@
 * [uBlock이란?](#uBlock이란)
 * [시작하기](#시작하기)
 * [성능 및 벤치마크](#성능)
-* [릴리즈 내역](#릴리즈내역)
+* [릴리즈 내역](#릴리즈 내역)
 * [팁](#팁)
 * [위키](https://github.com/chrisaljoudi/uBlock/wiki)
 
