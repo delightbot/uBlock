@@ -11,7 +11,7 @@
 * [uBlock이란?](#uBlock이란)
 * [시작하기](#시작하기)
 * [성능 및 벤치마크](#성능)
-* [릴리즈 내역](#릴리즈)
+* [릴리즈 내역](#릴리즈 내역)
 * [팁](#팁)
 * [위키](https://github.com/chrisaljoudi/uBlock/wiki)
 
@@ -85,7 +85,7 @@ uBlock은 CPU에 부담이 적습니다.<br>
 - [웹 페이지의 구성 요소](http://raymondhill.net/ublock/tiles1.html)
 - [팝업](http://raymondhill.net/ublock/popup.html)
 
-## 릴리즈
+## 릴리즈 내역
 
 [릴리즈 페이지](https://github.com/chrisaljoudi/uBlock/releases)에서 릴리즈 내역과 릴리즈에 대한 하이라이트 부분을 볼 수 있습니다.
 
