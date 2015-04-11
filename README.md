@@ -67,7 +67,7 @@ uBlock의 주 목표는 사용자가 개인정보 침해 장치를 무력화시�
 <p align="center">
 uBlock은 CPU에 부담이 적습니다.<br>
 <img src="https://raw.githubusercontent.com/chrisaljoudi/uBlock/master/doc/benchmarks/cpu-usage-overall-chart-20141226.png" /><br>
-<sup>D자세한 벤치마크는 <a href="https://github.com/chrisaljoudi/uBlock/blob/master/doc/benchmarks/cpu-usage-overall-20141226.ods">이 리브레오피스 스프레드시트</a>에서 확인이 가능합니다.</sup>
+<sup>자세한 벤치마크는 <a href="https://github.com/chrisaljoudi/uBlock/blob/master/doc/benchmarks/cpu-usage-overall-20141226.ods">이 리브레오피스 스프레드시트</a>에서 확인이 가능합니다.</sup>
 </p>
 
 #### 차단
@@ -91,7 +91,7 @@ uBlock은 CPU에 부담이 적습니다.<br>
 
 ## 팁
 
-* **To benefit from uBlock's higher efficiency,** it's advised that you don't use other inefficient blockers at the same time (such as AdBlock or Adblock Plus). uBlock will do [as well or better](#blocking) than most popular ad blockers.
+* **uBlock의 높은 효율을 원하신다면,** 동시에 다른 비효율적인 차단기를 사용하지 않는 것을 권장합니다 (예: AdBlock 또는 Adblock Plus). uBlock은 다른 인기있는 광고 차단기보다 [훨씬 더 좋습니다](#blocking).
 
 * 광고를 차단하는 것은 [*절대* 도둑질](https://twitter.com/LeaVerou/status/518154828166725632)이 아니라는 것이 중요한 부분입니다. 이런 오싹한 상상에 빠지지 마세요. _궁극적_인 논리의 결과가 `차단 = 도둑질` 이라면 이는 불가침적인 개인정보 권리에 대한 범죄입니다.
 
@@ -101,18 +101,18 @@ uBlock은 CPU에 부담이 적습니다.<br>
 
 * [확장기능의 필요한 권한](https://github.com/chrisaljoudi/uBlock/wiki/About-the-required-permissions)에 대해 읽어 주시기 바랍니다.
 
-## About
+## 정보
 
-[uBlock's manifesto](MANIFESTO.md).
+[uBlock 선언서](MANIFESTO.md).
 
-Free. Open source. For users by users.
+무료이며, 개방되어 있으며(오픈소스), 사용자를 위해 사용자가 만들었습니다.
 
-If uBlock is useful to you, [donations to support development are much appreciated](https://chrismatic.io/ublock/).
+uBlock이 당신에게 유용하다고 생각되면, [개발에 지원이 될 수 있도록 많은 기부를 부탁드립니다](https://chrismatic.io/ublock/).
 
-uBlock is made useful because of the filter lists it utilizes. We deeply appreciate
-the people working hard to maintain the filter lists we're using,
-which were made available to use by all for free.
+uBlock은 활용하고 있는 필터들 덕분에 유용해집니다. 저희는
+우리가 사용중인 필터를 유지하기 위해 노력하는 사람들에게 깊이 감사드립니다.
+이는 모두 무료로 사용하게 되어있습니다.
 
-## License
+## 라이센스
 
 [GPLv3](https://github.com/chrisaljoudi/uBlock/blob/master/LICENSE.txt).
