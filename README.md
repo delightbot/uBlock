@@ -41,7 +41,7 @@ uBlock의 주 목표는 사용자가 개인정보 침해 장치를 무력화시�
 
 ## 성능
 
-#### Memory
+#### 메모리
 
 <div align="center">
 평균치로 볼 때, uBlock은 <b>확실히</b> 당신의 브라우저를 가볍게 만들어줍니다.
@@ -60,46 +60,46 @@ uBlock의 주 목표는 사용자가 개인정보 침해 장치를 무력화시�
 
 <sup>[1] 자세한 벤치마크 정보는 <a href="https://github.com/chrisaljoudi/uBlock/wiki/Firefox-version:-benchmarking-memory-footprint">파이어폭스 버전: 메모리 사용량 벤치마크</a> 에서 확인하실 수 있습니다.</sup><br>
 
-<sup>[2] Important note: There is currently a [bug in Chromium 39+ which causes a new memory leak each time the popup UI of an extension is opened](https://code.google.com/p/chromium/issues/detail?id=441500). This affects <i>all</i> extensions. Keep this in mind when measuring Chromium's memory usage. In the benchmarks, I avoided opening the popups completely.</sup><br>
+<sup>[2] 중요 사항: 현재 여기에는 [크로미움 39+ 기반에서 확장기능이 열려 팝업 UI이 뜰 때마다 메모리 릭이 발생하는 버그](https://code.google.com/p/chromium/issues/detail?id=441500)가 존재합니다. 이것은 <i>모든</i> 확장기능에 영향을 줍니다. 크로미움 기반에서 메모리 사용량을 측정할 때 이 점을 유의해 주십시오. 벤치마크에서, 저는 완전히 팝업을 여는 것을 피했습니다.</sup><br>
 
 #### CPU
 
 <p align="center">
-uBlock is also easy on the CPU<br>
+uBlock은 CPU에 부담이 적습니다.<br>
 <img src="https://raw.githubusercontent.com/chrisaljoudi/uBlock/master/doc/benchmarks/cpu-usage-overall-chart-20141226.png" /><br>
-<sup>Details of the benchmark available in <a href="https://github.com/chrisaljoudi/uBlock/blob/master/doc/benchmarks/cpu-usage-overall-20141226.ods">this LibreOffice spreadsheet</a>.</sup>
+<sup>D자세한 벤치마크는 <a href="https://github.com/chrisaljoudi/uBlock/blob/master/doc/benchmarks/cpu-usage-overall-20141226.ods">이 리브레오피스 스프레드시트</a>에서 확인이 가능합니다.</sup>
 </p>
 
-#### Blocking
+#### 차단
 
 <p align="center">
-Being lean and efficient doesn't mean blocking less<br>
+매우 효율적이기 때문에 덜 차단하는 것을 의미하는 것은 아닙니다.<br>
 <img src="https://raw.githubusercontent.com/chrisaljoudi/uBlock/master/doc/benchmarks/privex-201502-16.png" /><br>
-<sup>For details of benchmark, see 
-<a href="https://github.com/chrisaljoudi/uBlock/wiki/uBlock-and-others%3A-Blocking-ads%2C-trackers%2C-malwares">uBlock and others: Blocking ads, trackers, malwares</a>.
+<sup>자세한 벤치마크는
+<a href="https://github.com/chrisaljoudi/uBlock/wiki/uBlock-and-others%3A-Blocking-ads%2C-trackers%2C-malwares">uBlock 그리고 다른 프로그램: 광고 차단, 트래커, 멀웨어</a>에서 확인이 가능합니다.
 </p>
 
-#### Quick tests
+#### 빠른 테스트
 
-- [Index](http://raymondhill.net/ublock/tests.html)
-- [Web page components](http://raymondhill.net/ublock/tiles1.html)
-- [Popups](http://raymondhill.net/ublock/popup.html)
+- [인덱스](http://raymondhill.net/ublock/tests.html)
+- [웹 페이지의 구성 요소](http://raymondhill.net/ublock/tiles1.html)
+- [팝업](http://raymondhill.net/ublock/popup.html)
 
-## Release History
+## 릴리즈 내역
 
-See the [releases pages](https://github.com/chrisaljoudi/uBlock/releases) for a history of releases and highlights for each release.
+[릴리즈 페이지](https://github.com/chrisaljoudi/uBlock/releases)에서 릴리즈 내역과 릴리즈에 대한 하이라이트 부분을 볼 수 있습니다.
 
-## Tips
+## 팁
 
 * **To benefit from uBlock's higher efficiency,** it's advised that you don't use other inefficient blockers at the same time (such as AdBlock or Adblock Plus). uBlock will do [as well or better](#blocking) than most popular ad blockers.
 
-* It's important to note that blocking ads [is *not* theft](https://twitter.com/LeaVerou/status/518154828166725632). Don't fall for this creepy idea. The _ultimate_ logical consequence of `blocking = theft` is the criminalisation of the inalienable right to privacy.
+* 광고를 차단하는 것은 [*절대* 도둑질](https://twitter.com/LeaVerou/status/518154828166725632)이 아니라는 것이 중요한 부분입니다. 이런 오싹한 상상에 빠지지 마세요. _궁극적_인 논리의 결과가 `차단 = 도둑질` 이라면 이는 불가침적인 개인정보 권리에 대한 범죄입니다.
 
-* _EasyList_, _Peter Lowe's Adservers_, _EasyPrivacy_ and _Malware domains_ are enabled by default when you install uBlock. Many more lists are readily available to block trackers, analytics, and more. Hosts files are also supported.
+* _EasyList_, _Peter Lowe's Adservers_, _EasyPrivacy_ 와 _Malware domains_ 는 uBlock을 설치할 때 기본적으로 활성화 되어 있습니다. 다른 많은 블록 트래커, 분석 등을 쉽게 사용할 수 있습니다. 호스트 파일도 지원됩니다.
 
-* Once you install uBlock, you can easily un-select any of the pre-selected filter lists if you think uBlock blocks too much. For reference, Adblock Plus installs with only _EasyList_ enabled by default.
+* uBlock을 설치하고, 당신이 생각하기에 uBlock의 차단목록이 너무 많다고 생각되면 쉽게 필터 리스트에서 선택 해제가 가능합니다. 참고로, 애드블록 플러스는 설치시 _EasyList_ 만 기본적으로 활성화되어 있습니다.
 
-* Feel free to read [about the extension's required permissions](https://github.com/chrisaljoudi/uBlock/wiki/About-the-required-permissions).
+* [확장기능의 필요한 권한](https://github.com/chrisaljoudi/uBlock/wiki/About-the-required-permissions)에 대해 읽어 주시기 바랍니다.
 
 ## About
 
