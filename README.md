@@ -8,14 +8,14 @@
 [![빌드 상태](https://travis-ci.org/chrisaljoudi/uBlock.svg?branch=master)](https://travis-ci.org/chrisaljoudi/uBlock) [![개발 지원](https://chrismatic.io/oncedonate.svg)](https://chrismatic.io/donate)
 
 
-* [uBlock이란?](#uBlock이란?)
+* [uBlock이란?](#uBlock)
 * [시작하기](#시작하기)
 * [성능 및 벤치마크](#성능 및 벤치마크)
 * [릴리즈 내역](#릴리즈 내역)
 * [팁](#팁)
 * [위키](https://github.com/chrisaljoudi/uBlock/wiki)
 
-## uBlock이란?
+## uBlock이란?(#uBlock)
 
 uBlock 은 범용 차단기 애드온입니다.— 구체적으로 *ad blocker* 는 아닙니다.
 
