@@ -1,4 +1,4 @@
-**중요한 사항:** 이것은 [새 공식 repo](https://github.com/chrisaljoudi/uBlock)의 포크입니다. 이 두 프로젝트는 기본적으로 0.9.3.0 버전과 동일하지만, 서서히 시간이 지나면서 나뉘게 될 것입니다. (업데이트: 이미 기능면에서 [나뉘어지기 시작했습니다](https://github.com/chrisaljoudi/uBlock/issues/1259).
+**중요한 사항:** 이것은 [새 공식 repo](https://github.com/chrisaljoudi/uBlock)의 포크입니다. 이 두 프로젝트는 기본적으로 0.9.3.0 버전과 동일하지만, 서서히 시간이 지나면서 나뉘게 될 것입니다. (업데이트: 이미 기능면에서 [나뉘어지기 시작했습니다](https://github.com/chrisaljoudi/uBlock/issues/1259)).
 
 저는 uBlock₀을 좀 더 성숙하고 발전된 기능으로 만드는 것에 대해 고려하고 있습니다.
 
