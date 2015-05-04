@@ -152,7 +152,7 @@ uBlock Origin의 높은 차단효율을 위해서는 동시에 다른 비효율�
 
 ## 정보
 
-[uBlock Origin의 사명](MANIFESTO.md).
+[uBlock Origin의 선언서](MANIFESTO.md).
 
 무료이며, 오픈소스이며, 사용자를 위해 사용자가 만들었습니다. 어떠한 기부도 바라지 않습니다.
 
