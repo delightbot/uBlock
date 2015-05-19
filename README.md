@@ -1,16 +1,10 @@
-**중요한 사항:** 이것은 [새 공식 repo](https://github.com/chrisaljoudi/uBlock)의 포크입니다. 이 두 프로젝트는 기본적으로 0.9.3.0 버전과 동일하지만, 서서히 시간이 지나면서 나뉘게 될 것입니다. (업데이트: 이미 기능면에서 [나뉘어지기 시작했습니다](https://github.com/chrisaljoudi/uBlock/issues/1259)).
+**또 다른 루머 해명글**: 최근 많은 곳에서 다음과 같은 주장을 보았습니다 ([예시](https://np.reddit.com/r/AskReddit/comments/35s2je/whats_a_product_that_everybody_uses_but_nobody/cr7h8l6)):
 
-저는 uBlock₀을 좀 더 성숙하고 발전된 기능으로 만드는 것에 대해 고려하고 있습니다.
+> 단지 uBlock은 애드블록 플러스처럼 광고를 차단한다. 그러나 광고 API에게는 광고를 본 것처럼 트리거한다.
 
-기능들을 추가하는 것을 멈추는 것은 속도를 향상시키며, 소프트웨어를 시대에 뒤떨어지게 만드는 것이 아닙니다. 당신이 그렇게 믿는다면, 지난 달에 애드블록 플러스에 얼마나 많은 기능들이 추가되었는지 확인해 보십시오. uBlock은 거의 매 주간 새로운 기능들이 추가되었습니다.
+**완전히 구라입니다.** uBlock Origin (및 uBlock)은 어떤 "광고 API" 든지 "트리거" 하지 않습니다(어떤 것이든). 그것은 필터 목록에 따라 만들어지는 네트워크 요청을 방지합니다. 그러므로 당신의 브라우저는 원격 서버에 연결되지 않습니다. 언제든.
 
-그래도 이 프로젝트를 유지하고, 잘 작동하도록 하게 할것입니다. 즉, 버그 수정이 대부분 일것입니다. 안정성과 신뢰성이 현재 시점에서는 우선입니다.
-
-아마 제가 필요한 기능이라고 생각될 때, 기능들을 추가할 것입니다. -- 제 스스로 부가 기능을 사용하며, 확실히 무언가가 더 필요하다고 느낄 때, 그냥 바로 그것들을 추가 해버릴겁니다.
-
-필터 목록은 평소와 같이 일정한 간격으로 업데이트 될 것입니다.
-
-반복되는 질문이 있습니다. "왜 당신은 원래 프로젝트를 다른 사람에게 이양했습니까?", [답은 여기에 있습니다](https://github.com/gorhill/uBlock/issues/38#issuecomment-91871802).
+**uBlock's purpose is to only serve users' interests, and nothing else**. See [uBlock's Manifesto](https://github.com/gorhill/uBlock/blob/master/MANIFESTO.md).
 
 *** 
 
