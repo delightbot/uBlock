@@ -4,7 +4,7 @@
 
 **완전히 구라입니다.** uBlock Origin (및 uBlock)은 어떤 "광고 API" 든지 "트리거" 하지 않습니다(어떤 것이든). 그것은 필터 목록에 따라 만들어지는 네트워크 요청을 방지합니다. 그러므로 당신의 브라우저는 원격 서버에 연결되지 않습니다. 언제든.
 
-**uBlock's purpose is to only serve users' interests, and nothing else**. See [uBlock's Manifesto](https://github.com/gorhill/uBlock/blob/master/MANIFESTO.md).
+**uBlock의 목적은 오직 사용자의 이익이며, 다른 것에는 관여하지 않습니다**. [uBlock 선언서](https://github.com/gorhill/uBlock/blob/master/MANIFESTO.md)를 참조하세요..
 
 *** 
 
