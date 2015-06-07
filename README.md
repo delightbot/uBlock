@@ -1,8 +1,19 @@
-**또 다른 루머 해명글**: 최근 많은 곳에서 다음과 같은 주장을 보았습니다 ([예시](https://np.reddit.com/r/AskReddit/comments/35s2je/whats_a_product_that_everybody_uses_but_nobody/cr7h8l6)):
+[<img src="https://travis-ci.org/gorhill/uBlock.svg?branch=master" height="18">](https://travis-ci.org/gorhill/uBlock)
+[![Crowdin](https://d322cqt584bo4o.cloudfront.net/ublock/localized.png)](https://crowdin.com/project/ublock)
+
+***
+
+**0.9.8.2 버전의 크로미움이 새 권한을 요구하는것에 대하여**: [필요한 권한들에 대해: 개인 정보 보호 관련 설정을 변경한다](https://github.com/gorhill/uBlock/wiki/About-the-required-permissions#change-your-privacy-related-settings).크롬 웹 스토어에서 누군가의 지적으로 생긴 부정적인 리뷰에 대한 개발자의 답변:
+
+> 이 변경 이후 부정적인 리뷰가 생긴것은 주목할 가치가 있다
+
+저는 이 긴 프로젝트를 보았습니다. 제 결정은 장기적 기간 후에 입증됩니다. 어떤 일이 일어났는지 완전히 이해하지 않은 상태로 그저 무릎을 꿇리게 하려는 사람들의 행동은 제가 개인정보 보호 습관을 약화시킨다고 하는 것에 대해서는 좋은 이유가 아닙니다. 당신이 원한다면 다음 버전에서 다시 활성화 되게 할 것입니다만, 모든 이유에 의해 프리-페칭 기능은 기본적으로 비활성화되게 할 것입니다. 제 목표는 사용자가 관심을 가지는 데이터를 캐내고 사용자의 이익을 손상시키는 '데이터 광부' 등의 행동이 아닙니다. 사용자의 프리-페칭을 비활성화하는 것은 이와 같은 것이 됩니다.
+
+**두 개의 루머에 대한 답변**: 최근 많은 곳에서 다음과 같은 주장을 보았습니다 ([예시1](https://np.reddit.com/r/AskReddit/comments/35s2je/whats_a_product_that_everybody_uses_but_nobody/cr7h8l6), [예시2](https://np.reddit.com/r/leagueoflegends/comments/37e8ed/want_to_support_your_favorite_content_producers/)):
 
 > 단지 uBlock은 애드블록 플러스처럼 광고를 차단한다. 그러나 광고 API에게는 광고를 본 것처럼 트리거한다.
 
-**완전히 구라입니다.** uBlock Origin (및 uBlock)은 어떤 "광고 API" 든지 "트리거" 하지 않습니다(어떤 것이든). 그것은 필터 목록에 따라 만들어지는 네트워크 요청을 방지합니다. 그러므로 당신의 브라우저는 원격 서버에 연결되지 않습니다. 언제든.
+**완전히 거짓입니다.** uBlock Origin (및 uBlock)은 어떤 "광고 API" 든지 "트리거" 하지 않습니다(어떤 것이든). 그것은 필터 목록에 따라 만들어지는 네트워크 요청을 방지합니다. 그러므로 당신의 브라우저는 원격 서버에 연결되지 않습니다. 언제든.
 
 **uBlock의 목적은 오직 사용자의 이익이며, 다른 것에는 관여하지 않습니다**. [uBlock 선언서](https://github.com/gorhill/uBlock/blob/master/MANIFESTO.md)를 참조하세요..
 
