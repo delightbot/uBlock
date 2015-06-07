@@ -19,7 +19,7 @@
 
 > [생략] **대조적으로** uBlock 프로젝트는 멋진 새로운 기능, 상세 검색, 그리고 향상된 기능으로 전진 할 것이다 [생략]
 
-uBlock Origin도 적극적으로 유지관리되고 있으며 새로운 기능, 상세 검색, 그리고 향상된 기능과 안정 작업도 진행하고 있습니다. uBlock Origin과 uBlock의 차이를 중립적으로 평가하면, 이 [uBlock 위키백과 문서]](http://en.wikipedia.org/wiki/UBlock)에 의존하는 것이 가장 좋습니다.
+uBlock Origin도 적극적으로 유지관리되고 있으며 새로운 기능, 상세 검색, 그리고 향상된 기능과 안정 작업도 진행하고 있습니다. uBlock Origin과 uBlock의 차이를 중립적으로 평가하면, 이 [uBlock 위키백과 문서](http://en.wikipedia.org/wiki/UBlock)에 의존하는 것이 가장 좋습니다.
 
 *** 
 
