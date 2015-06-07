@@ -15,7 +15,11 @@
 
 **완전히 거짓입니다.** uBlock Origin (및 uBlock)은 어떤 "광고 API" 든지 "트리거" 하지 않습니다(어떤 것이든). 그것은 필터 목록에 따라 만들어지는 네트워크 요청을 방지합니다. 그러므로 당신의 브라우저는 원격 서버에 연결되지 않습니다. 언제든.
 
-**uBlock의 목적은 오직 사용자의 이익이며, 다른 것에는 관여하지 않습니다**. [uBlock 선언서](https://github.com/gorhill/uBlock/blob/master/MANIFESTO.md)를 참조하세요..
+또한, [_uBlock FAQ_ 항목](https://www.ublock.org/faq/)이 시사하는 것의 반대가 되고 있습니다:
+
+> [생략] **대조적으로** uBlock 프로젝트는 멋진 새로운 기능, 상세 검색, 그리고 향상된 기능으로 전진 할 것이다 [생략]
+
+uBlock Origin도 적극적으로 유지관리되고 있으며 새로운 기능, 상세 검색, 그리고 향상된 기능과 안정 작업도 진행하고 있습니다. uBlock Origin과 uBlock의 차이를 중립적으로 평가하면, 이 [uBlock 위키백과 문서]](http://en.wikipedia.org/wiki/UBlock)에 의존하는 것이 가장 좋습니다.
 
 *** 
 
@@ -44,7 +48,7 @@ uBlock Origin
 </p>
 
 
-**여러 브라우저를 위한 빠르고, 강력하고, 효율적인 차단기입니다.**&nbsp;&nbsp;[<img src="https://travis-ci.org/gorhill/uBlock.svg?branch=master" height="12">](https://travis-ci.org/gorhill/uBlock)
+**여러 브라우저를 위한 빠르고, 강력하고, 효율적인 차단기입니다.**
 
 * [용도 및 정보](#서론)
 * [설명서](#설명서)
