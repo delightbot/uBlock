@@ -118,6 +118,7 @@ uBlock₀은 CPU에 부담이 적습니다.<br>
 - [인덱스](http://raymondhill.net/ublock/tests.html)
 - [웹 페이지의 구성 요소](http://raymondhill.net/ublock/tiles1.html)
 - [팝업](http://raymondhill.net/ublock/popup.html)
+- [ABP 테스트 페이지](https://testpages.adblockplus.org/)
 
 ## 설치
 
@@ -134,6 +135,8 @@ uBlock₀은 CPU에 부담이 적습니다.<br>
 [파이어폭스 부가 기능 홈페이지](https://addons.mozilla.org/firefox/addon/ublock-origin/)에서 설치하거나, [uBlock0.firefox.xpi](https://github.com/gorhill/uBlock/releases) 파일을 다운로드 받아 최신 버전을 설치할 수 있습니다, 그리고 다운로드 받은 `xpi` 파일을 부가 기능 페이지에 드래그 하시면 됩니다.
 
 대안으로, [chrisaljoudi/uBlock](https://github.com/chrisaljoudi/uBlock)을 [파이어폭스 부가 기능 홈페이지](https://addons.mozilla.org/firefox/addon/ublock/)에서 설치 할 수 있습니다. 전체 기능에서는 약간 다르지만, 같은 성능을 가지고 있으며, 구형 파이어폭스 기반 브라우저에 대해서도 적절히 지원하고 있습니다.
+
+구형 파이어폭스 브라우저를 사용중이시다면 -- 파이어폭스 29 이하 -- 구형 파이어폭스를 공식적으로 지원하는 [chrisaljoudi/uBlock](https://github.com/chrisaljoudi/uBlock) 를 사용하는 것이 더 좋은 선택입니다.
 
 #### 사파리
 
@@ -157,7 +160,7 @@ uBlock Origin의 높은 차단효율을 위해서는 동시에 다른 비효율�
 
 이 차단기에 포함되어 있는 필터가 없다면, 이 부가 기능은 쓸모가 없어집니다. 그러니 정말 어떤것이라도 기부하고 싶은 마음이 든다면, 당신이 사용중인 모두를 위해 무료로 쓸 수 있게 만들어진 필터 리스트를 위해 일하는 사람들을 생각해주세요.
 
-[Crowdin](https://crowdin.net/project/ublock)에서 uBlock의 번역 작업을 도와줄 수 있습니다.
+[Crowdin](https://crowdin.net/project/ublock)에서 uBlock₀의 번역 작업을 도와줄 수 있습니다.
 
 ## 라이센스
 
