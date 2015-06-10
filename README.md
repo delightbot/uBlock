@@ -3,23 +3,13 @@
 
 ***
 
-**0.9.8.2 버전의 크로미움이 새 권한을 요구하는것에 대하여**: [필요한 권한들에 대해: 개인 정보 보호 관련 설정을 변경한다](https://github.com/gorhill/uBlock/wiki/About-the-required-permissions#change-your-privacy-related-settings).크롬 웹 스토어에서 누군가의 지적으로 생긴 부정적인 리뷰에 대한 개발자의 답변:
+아이디어는 uBlock Origin 주위에서 떠다니며, [uBlock](https://github.com/chrisaljoudi/uBlock)<sup>[1]</sup>에 비해 상대적으로 분기가 _적습니다_.
 
-> 이 변경 이후 부정적인 리뷰가 생긴것은 주목할 가치가 있다
+현재 시점에서 *두 분기*가 있습니다,  하나는 공식적인 것이며 하나는 그것보다는 덜 공식적인 것입니다. [2014년 6월 23일 uBlock이 시작된 이후](http://www.wilderssecurity.com/threads/ublock-a-lean-and-fast-blocker.365273/)에도 저는 제 분기를 같은 방향, 같은 정신으로 계속 개발할 것입니다.
 
-저는 이 긴 프로젝트를 보았습니다. 제 결정은 장기적 기간 후에 입증됩니다. 어떤 일이 일어났는지 완전히 이해하지 않은 상태로 그저 무릎을 꿇리게 하려는 사람들의 행동은 제가 개인정보 보호 습관을 약화시킨다고 하는 것에 대해서는 좋은 이유가 아닙니다. 당신이 원한다면 다음 버전에서 다시 활성화 되게 할 것입니다만, 모든 이유에 의해 프리-페칭 기능은 기본적으로 비활성화되게 할 것입니다. 제 목표는 사용자가 관심을 가지는 데이터를 캐내고 사용자의 이익을 손상시키는 '데이터 광부' 등의 행동이 아닙니다. 사용자의 프리-페칭을 비활성화하는 것은 이와 같은 것이 됩니다.
+uBlock Origin과 uBlock의 기능 차이에 대해 중립적인 설명을 원한다면 [위키피디아 항목](http://en.wikipedia.org/wiki/UBlock) 을 참조해 보시기 바랍니다.
 
-**두 개의 루머에 대한 답변**: 최근 많은 곳에서 다음과 같은 주장을 보았습니다 ([예시1](https://np.reddit.com/r/AskReddit/comments/35s2je/whats_a_product_that_everybody_uses_but_nobody/cr7h8l6), [예시2](https://np.reddit.com/r/leagueoflegends/comments/37e8ed/want_to_support_your_favorite_content_producers/)):
-
-> 단지 uBlock은 애드블록 플러스처럼 광고를 차단한다. 그러나 광고 API에게는 광고를 본 것처럼 트리거한다.
-
-**완전히 거짓입니다.** uBlock Origin (및 uBlock)은 어떤 "광고 API" 든지 "트리거" 하지 않습니다(어떤 것이든). 그것은 필터 목록에 따라 만들어지는 네트워크 요청을 방지합니다. 그러므로 당신의 브라우저는 원격 서버에 연결되지 않습니다. 언제든.
-
-또한, [_uBlock FAQ_ 항목](https://www.ublock.org/faq/)이 시사하는 것의 반대가 되고 있습니다:
-
-> [생략] **대조적으로** uBlock 프로젝트는 멋진 새로운 기능, 상세 검색, 그리고 향상된 기능으로 전진 할 것이다 [생략]
-
-uBlock Origin도 적극적으로 유지관리되고 있으며 새로운 기능, 상세 검색, 그리고 향상된 기능과 안정 작업도 진행하고 있습니다. uBlock Origin과 uBlock의 차이를 중립적으로 평가하면, 이 [uBlock 위키백과 문서](http://en.wikipedia.org/wiki/UBlock)에 의존하는 것이 가장 좋습니다.
+<sub>[1] [예시](https://www.ublock.org/faq/). [또 다른 예시](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/reviews/716364/).</sub>
 
 *** 
 
