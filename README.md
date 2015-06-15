@@ -5,7 +5,7 @@
 
 아이디어는 uBlock Origin 주위에서 떠다니며, [uBlock](https://github.com/chrisaljoudi/uBlock)<sup>[1]</sup>에 비해 상대적으로 분기가 _적습니다_.
 
-현재 시점에서 *두 분기*가 있습니다,  하나는 공식적인 것이며 하나는 그것보다는 덜 공식적인 것입니다. [2014년 6월 23일 uBlock이 시작된 이후](http://www.wilderssecurity.com/threads/ublock-a-lean-and-fast-blocker.365273/)에도 저는 제 분기를 같은 방향, 같은 정신으로 계속 개발할 것입니다.
+현재 시점에서 *두 분기*가 있습니다. 공식적인 것과 비공식적인 것은 아닙니다. [2014년 6월 23일 uBlock이 시작된 이후](http://www.wilderssecurity.com/threads/ublock-a-lean-and-fast-blocker.365273/)에도 저는 제 분기를 같은 방향, 같은 정신으로 계속 개발할 것입니다.
 
 uBlock Origin과 uBlock의 기능 차이에 대해 중립적인 설명을 원한다면 [위키피디아 항목](http://en.wikipedia.org/wiki/UBlock) 을 참조해 보시기 바랍니다.
 
