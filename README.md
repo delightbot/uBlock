@@ -9,7 +9,7 @@
 
 uBlock Origin과 uBlock의 기능 차이에 대해 중립적인 설명을 원한다면 [위키피디아 항목](http://en.wikipedia.org/wiki/UBlock) 을 참조해 보시기 바랍니다.
 
-5월 말부터, 저는 이 [uBlock branch](https://github.com/chrisaljoudi/uBlock).<sup>[2]</sup> 분기에 코드를 더이상 기여하지 않기로 했습니다.
+5월 말부터, 저는 이 [uBlock branch](https://github.com/chrisaljoudi/uBlock)<sup>[2]</sup> 분기에 코드를 더이상 기여하지 않기로 했습니다.
 
 <sub>[1] [예시](https://www.ublock.org/faq/). [또 다른 예시](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/reviews/716364/).</sub>
 
