@@ -83,7 +83,7 @@ uBlock₀을 설치하고, 당신이 생각하기에 uBlock₀의 차단목록�
 #### 메모리
 
 <div align="center">
-다음 벤치마크를 평균적으로 따져보면, uBlock₀은 당신의 브라우저를 훨씬 더 가볍게 만듭니다. <sup>[1]</sup><br><br>
+평균적으로 따져보면, uBlock₀은 **실제**로 당신의 브라우저를 훨씬 더 가볍게 만듭니다. <sup>[1]</sup><br><br>
 
 크로미움 <sup>[2]</sup><br>
 <img src="https://raw.githubusercontent.com/gorhill/uBlock/master/doc/benchmarks/mem-usage-overall-chart-20141224.png" /><br><br>
